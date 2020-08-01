@@ -1,0 +1,23 @@
+.match-area {
+  border-color: #0848A0;
+  border-width: 2.5em;
+  border-style: solid;
+  display: flex;
+  background-color: #F3F5F9;
+  width: 50%;
+  justify-content: center;
+}
+
+.app-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: #444444;
+}
